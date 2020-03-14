@@ -44,7 +44,7 @@ The final tables or collections that will be used in the production database.
 You will be required to submit a final technical report with the above information and steps required to reproduce your ETL process.
 
 *Project Report
-Your team will submit a Final Report that describes the following:
+Your team will submit a Final Report.
 
 
 
