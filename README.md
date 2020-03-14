@@ -1,11 +1,11 @@
 ETL-Project
 Guidelines for ETL Project
 
-Project Proposal
+-Project Proposal
 Before you start writing any code, remember that you only have one week to complete this project. View this project as a typical assignment from work. Imagine a bunch of data came in and you and your team are tasked with migrating it to a production data base.
 Take advantage of your Instructor and TA support during office hours and class project work time. They are a valuable resource and can help you stay on track.
 
-Finding Data
+-Finding Data
 Your project must use 2 or more sources of data. We recommend the following sites to use as sources of data:
 
 
@@ -17,7 +17,7 @@ Kaggle
 
 You can also use APIs or data scraped from the web. However, get approval from your instructor first. Again, there is only a week to complete this!
 
-Data Cleanup & Analysis
+-Data Cleanup & Analysis
 Once you have identified your datasets, perform ETL on the data. Make sure to plan and document the following:
 
 
