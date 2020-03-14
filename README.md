@@ -39,10 +39,10 @@ You will be required to submit a final technical report with the above informati
 Your team will submit a Final Report that describes the following:
 
 
-**Extract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
+**Extract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).**
 
 
-**Transform: what data cleaning or transformation was required.
+**Transform: what data cleaning or transformation was required.**
 
 
-**Load: the final database, tables/collections, and why this was chosen.
+**Load: the final database, tables/collections, and why this was chosen.**
