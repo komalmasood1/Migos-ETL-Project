@@ -1,6 +1,14 @@
 **ETL-Project**
 Guidelines for ETL Project
 
+  **Extract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).**
+
+
+  **Transform: what data cleaning or transformation was required.**
+
+
+  **Load: the final database, tables/collections, and why this was chosen.**
+
 *Project Proposal
 Before you start writing any code, remember that you only have one week to complete this project. View this project as a typical assignment from work. Imagine a bunch of data came in and you and your team are tasked with migrating it to a production data base.
 
@@ -39,10 +47,4 @@ You will be required to submit a final technical report with the above informati
 Your team will submit a Final Report that describes the following:
 
 
-  **Extract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).**
 
-
-  **Transform: what data cleaning or transformation was required.**
-
-
-  **Load: the final database, tables/collections, and why this was chosen.**
