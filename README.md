@@ -1,5 +1,6 @@
 **ETL-Project**
 
+Extracted, cleaned, and loaded musical data into Postgres to see if there is a correlation between most popular genres of music.
 
   **Extract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).**
 
@@ -10,7 +11,6 @@
   **Load: the final database, tables/collections, and why this was chosen.**
 
 *Project Proposal
-Before you start writing any code, remember that you only have one week to complete this project. View this project as a typical assignment from work. Imagine a bunch of data came in and you and your team are tasked with migrating it to a production data base.
 
 
 *Finding Data
@@ -23,7 +23,6 @@ data.world
 Kaggle
 
 
-You can also use APIs or data scraped from the web. However, get approval from your instructor first. Again, there is only a week to complete this!
 
 *Data Cleanup & Analysis
 Once you have identified your datasets, perform ETL on the data. Make sure to plan and document the following:
