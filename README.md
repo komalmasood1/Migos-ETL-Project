@@ -2,7 +2,9 @@
 
 Extracted, cleaned, and loaded musical data into Postgres to see if there is a correlation between most popular genres of music.
 
+
   **Extract: original data sources and how the data was formatted.**
+  
 	https://data.world/kcmillersean/billboard-hot-100-1958-2017 - import.io
 	https://www.kaggle.com/nadintamer/top-spotify-tracks-of-2018 - API
 
